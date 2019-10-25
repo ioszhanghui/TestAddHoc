@@ -1,0 +1,411 @@
+BCSymbolMap Version: 2.0
+-[ViewController viewDidLoad]
+_OBJC_CLASS_$_ViewController
+_OBJC_METACLASS_$_ViewController
+Apple LLVM version 10.0.0 (clang-1000.11.45.5)
+/Users/xiaofeiniao/Desktop/TestAddHoc/TestAddHoc/ViewController.m
+/Users/xiaofeiniao/Desktop/TestAddHoc
+_OBJC_CLASS_$_AppDelegate
+/Users/xiaofeiniao/Desktop/TestAddHoc/TestAddHoc/main.m
+main
+-[AppDelegate application:didFinishLaunchingWithOptions:]
+-[AppDelegate applicationWillResignActive:]
+-[AppDelegate applicationDidEnterBackground:]
+-[AppDelegate applicationWillEnterForeground:]
+-[AppDelegate applicationDidBecomeActive:]
+-[AppDelegate applicationWillTerminate:]
+-[AppDelegate window]
+-[AppDelegate setWindow:]
+-[AppDelegate .cxx_destruct]
+_OBJC_IVAR_$_AppDelegate._window
+l_OBJC_PROTOCOL_$_NSObject
+l_OBJC_LABEL_PROTOCOL_$_NSObject
+l_OBJC_PROTOCOL_$_UIApplicationDelegate
+l_OBJC_LABEL_PROTOCOL_$_UIApplicationDelegate
+_OBJC_METACLASS_$_AppDelegate
+/Users/xiaofeiniao/Desktop/TestAddHoc/TestAddHoc/AppDelegate.m
+/Users/xiaofeiniao/Desktop/TestAddHoc/TestAddHoc/AppDelegate.h
+-[SVIndefiniteAnimatedView willMoveToSuperview:]
+-[SVIndefiniteAnimatedView layoutAnimatedLayer]
+-[SVIndefiniteAnimatedView indefiniteAnimatedLayer]
+-[SVIndefiniteAnimatedView setFrame:]
+-[SVIndefiniteAnimatedView setRadius:]
+-[SVIndefiniteAnimatedView setStrokeColor:]
+-[SVIndefiniteAnimatedView setStrokeThickness:]
+-[SVIndefiniteAnimatedView sizeThatFits:]
+-[SVIndefiniteAnimatedView strokeThickness]
+-[SVIndefiniteAnimatedView radius]
+-[SVIndefiniteAnimatedView strokeColor]
+-[SVIndefiniteAnimatedView setIndefiniteAnimatedLayer:]
+-[SVIndefiniteAnimatedView .cxx_destruct]
+_OBJC_IVAR_$_SVIndefiniteAnimatedView._indefiniteAnimatedLayer
+_OBJC_CLASS_$_SVProgressHUD
+_OBJC_CLASS_$_SVIndefiniteAnimatedView
+_OBJC_IVAR_$_SVIndefiniteAnimatedView._radius
+_OBJC_IVAR_$_SVIndefiniteAnimatedView._strokeColor
+_OBJC_IVAR_$_SVIndefiniteAnimatedView._strokeThickness
+_OBJC_METACLASS_$_SVIndefiniteAnimatedView
+/Users/xiaofeiniao/Desktop/TestAddHoc/Pods/SVProgressHUD/SVProgressHUD/SVIndefiniteAnimatedView.m
+/Users/xiaofeiniao/Desktop/TestAddHoc/Pods
+/Users/xiaofeiniao/Desktop/TestAddHoc/Pods/SVProgressHUD/SVProgressHUD/SVIndefiniteAnimatedView.h
+-[SVProgressAnimatedView willMoveToSuperview:]
+-[SVProgressAnimatedView layoutAnimatedLayer]
+-[SVProgressAnimatedView ringAnimatedLayer]
+-[SVProgressAnimatedView setFrame:]
+-[SVProgressAnimatedView setRadius:]
+-[SVProgressAnimatedView setStrokeColor:]
+-[SVProgressAnimatedView setStrokeThickness:]
+-[SVProgressAnimatedView setStrokeEnd:]
+-[SVProgressAnimatedView sizeThatFits:]
+-[SVProgressAnimatedView radius]
+-[SVProgressAnimatedView strokeThickness]
+-[SVProgressAnimatedView strokeColor]
+-[SVProgressAnimatedView strokeEnd]
+-[SVProgressAnimatedView setRingAnimatedLayer:]
+-[SVProgressAnimatedView .cxx_destruct]
+_OBJC_IVAR_$_SVProgressAnimatedView._ringAnimatedLayer
+_OBJC_CLASS_$_SVProgressAnimatedView
+_OBJC_IVAR_$_SVProgressAnimatedView._radius
+_OBJC_IVAR_$_SVProgressAnimatedView._strokeColor
+_OBJC_IVAR_$_SVProgressAnimatedView._strokeThickness
+_OBJC_IVAR_$_SVProgressAnimatedView._strokeEnd
+_OBJC_METACLASS_$_SVProgressAnimatedView
+/Users/xiaofeiniao/Desktop/TestAddHoc/Pods/SVProgressHUD/SVProgressHUD/SVProgressAnimatedView.m
+/Users/xiaofeiniao/Desktop/TestAddHoc/Pods/SVProgressHUD/SVProgressHUD/SVProgressAnimatedView.h
+_OBJC_METACLASS_$_PodsDummy_SVProgressHUD
+_OBJC_CLASS_$_PodsDummy_SVProgressHUD
+/Users/xiaofeiniao/Desktop/TestAddHoc/Pods/Target Support Files/SVProgressHUD/SVProgressHUD-dummy.m
++[SVProgressHUD sharedView]
+___27+[SVProgressHUD sharedView]_block_invoke
+___copy_helper_block_
+___destroy_helper_block_
++[SVProgressHUD setStatus:]
++[SVProgressHUD setDefaultStyle:]
++[SVProgressHUD setDefaultMaskType:]
++[SVProgressHUD setDefaultAnimationType:]
++[SVProgressHUD setContainerView:]
++[SVProgressHUD setMinimumSize:]
++[SVProgressHUD setRingThickness:]
++[SVProgressHUD setRingRadius:]
++[SVProgressHUD setRingNoTextRadius:]
++[SVProgressHUD setCornerRadius:]
++[SVProgressHUD setBorderColor:]
++[SVProgressHUD setBorderWidth:]
++[SVProgressHUD setFont:]
++[SVProgressHUD setForegroundColor:]
++[SVProgressHUD setBackgroundColor:]
++[SVProgressHUD setBackgroundLayerColor:]
++[SVProgressHUD setImageViewSize:]
++[SVProgressHUD setShouldTintImages:]
++[SVProgressHUD setInfoImage:]
++[SVProgressHUD setSuccessImage:]
++[SVProgressHUD setErrorImage:]
++[SVProgressHUD setViewForExtension:]
++[SVProgressHUD setGraceTimeInterval:]
++[SVProgressHUD setMinimumDismissTimeInterval:]
++[SVProgressHUD setMaximumDismissTimeInterval:]
++[SVProgressHUD setFadeInAnimationDuration:]
++[SVProgressHUD setFadeOutAnimationDuration:]
++[SVProgressHUD setMaxSupportedWindowLevel:]
++[SVProgressHUD setHapticsEnabled:]
++[SVProgressHUD show]
++[SVProgressHUD showWithMaskType:]
++[SVProgressHUD showWithStatus:]
++[SVProgressHUD showWithStatus:maskType:]
++[SVProgressHUD showProgress:]
++[SVProgressHUD showProgress:maskType:]
++[SVProgressHUD showProgress:status:]
++[SVProgressHUD showProgress:status:maskType:]
++[SVProgressHUD showInfoWithStatus:]
+___36+[SVProgressHUD showInfoWithStatus:]_block_invoke
+___copy_helper_block_.108
+___destroy_helper_block_.109
++[SVProgressHUD showInfoWithStatus:maskType:]
++[SVProgressHUD showSuccessWithStatus:]
+___39+[SVProgressHUD showSuccessWithStatus:]_block_invoke
+___copy_helper_block_.116
+___destroy_helper_block_.117
++[SVProgressHUD showSuccessWithStatus:maskType:]
+___48+[SVProgressHUD showSuccessWithStatus:maskType:]_block_invoke
+___copy_helper_block_.122
+___destroy_helper_block_.123
++[SVProgressHUD showErrorWithStatus:]
+___37+[SVProgressHUD showErrorWithStatus:]_block_invoke
+___copy_helper_block_.128
+___destroy_helper_block_.129
++[SVProgressHUD showErrorWithStatus:maskType:]
+___46+[SVProgressHUD showErrorWithStatus:maskType:]_block_invoke
+___copy_helper_block_.134
+___destroy_helper_block_.135
++[SVProgressHUD showImage:status:]
++[SVProgressHUD showImage:status:maskType:]
++[SVProgressHUD popActivity]
++[SVProgressHUD dismiss]
++[SVProgressHUD dismissWithCompletion:]
++[SVProgressHUD dismissWithDelay:]
++[SVProgressHUD dismissWithDelay:completion:]
++[SVProgressHUD setOffsetFromCenter:]
++[SVProgressHUD resetOffsetFromCenter]
+-[SVProgressHUD initWithFrame:]
+-[SVProgressHUD updateHUDFrame]
+-[SVProgressHUD updateMotionEffectForOrientation:]
+-[SVProgressHUD updateMotionEffectForXMotionEffectType:yMotionEffectType:]
+-[SVProgressHUD updateViewHierarchy]
+-[SVProgressHUD setStatus:]
+-[SVProgressHUD setGraceTimer:]
+-[SVProgressHUD setFadeOutTimer:]
+-[SVProgressHUD registerNotifications]
+-[SVProgressHUD notificationUserInfo]
+-[SVProgressHUD positionHUD:]
+___29-[SVProgressHUD positionHUD:]_block_invoke
+___copy_helper_block_.319
+___destroy_helper_block_.320
+-[SVProgressHUD moveToPoint:rotateAngle:]
+-[SVProgressHUD controlViewDidReceiveTouchEvent:forEvent:]
+-[SVProgressHUD showProgress:status:]
+___37-[SVProgressHUD showProgress:status:]_block_invoke
+___copy_helper_block_.385
+___destroy_helper_block_.386
+-[SVProgressHUD showImage:status:duration:]
+___43-[SVProgressHUD showImage:status:duration:]_block_invoke
+___copy_helper_block_.400
+___destroy_helper_block_.401
+-[SVProgressHUD fadeIn:]
+___Block_byref_object_copy_
+___Block_byref_object_dispose_
+___24-[SVProgressHUD fadeIn:]_block_invoke
+___copy_helper_block_.419
+___destroy_helper_block_.420
+___24-[SVProgressHUD fadeIn:]_block_invoke.422
+___copy_helper_block_.425
+___destroy_helper_block_.426
+___24-[SVProgressHUD fadeIn:]_block_invoke.430
+___copy_helper_block_.431
+___destroy_helper_block_.432
+___24-[SVProgressHUD fadeIn:]_block_invoke.434
+___copy_helper_block_.435
+___destroy_helper_block_.436
+-[SVProgressHUD dismiss]
+-[SVProgressHUD dismissWithDelay:completion:]
+___45-[SVProgressHUD dismissWithDelay:completion:]_block_invoke
+___45-[SVProgressHUD dismissWithDelay:completion:]_block_invoke_2
+___copy_helper_block_.441
+___destroy_helper_block_.442
+___45-[SVProgressHUD dismissWithDelay:completion:]_block_invoke.444
+___copy_helper_block_.455
+___destroy_helper_block_.456
+___45-[SVProgressHUD dismissWithDelay:completion:]_block_invoke.458
+___45-[SVProgressHUD dismissWithDelay:completion:]_block_invoke_2.461
+___copy_helper_block_.462
+___destroy_helper_block_.463
+___45-[SVProgressHUD dismissWithDelay:completion:]_block_invoke.465
+___copy_helper_block_.466
+___destroy_helper_block_.467
+___copy_helper_block_.469
+___destroy_helper_block_.470
+___copy_helper_block_.472
+___destroy_helper_block_.473
+-[SVProgressHUD indefiniteAnimatedView]
+-[SVProgressHUD ringView]
+-[SVProgressHUD backgroundRingView]
+-[SVProgressHUD cancelRingLayerAnimation]
+-[SVProgressHUD cancelIndefiniteAnimatedViewAnimation]
++[SVProgressHUD isVisible]
++[SVProgressHUD displayDurationForString:]
+-[SVProgressHUD foregroundColorForStyle]
+-[SVProgressHUD backgroundColorForStyle]
+-[SVProgressHUD controlView]
+-[SVProgressHUD backgroundView]
+-[SVProgressHUD hudView]
+-[SVProgressHUD statusLabel]
+-[SVProgressHUD imageView]
+-[SVProgressHUD visibleKeyboardHeight]
+-[SVProgressHUD frontWindow]
+-[SVProgressHUD fadeInEffects]
+-[SVProgressHUD fadeOutEffects]
+-[SVProgressHUD hapticGenerator]
+-[SVProgressHUD setDefaultStyle:]
+-[SVProgressHUD setDefaultMaskType:]
+-[SVProgressHUD setDefaultAnimationType:]
+-[SVProgressHUD setContainerView:]
+-[SVProgressHUD setMinimumSize:]
+-[SVProgressHUD setRingThickness:]
+-[SVProgressHUD setRingRadius:]
+-[SVProgressHUD setRingNoTextRadius:]
+-[SVProgressHUD setCornerRadius:]
+-[SVProgressHUD setFont:]
+-[SVProgressHUD setForegroundColor:]
+-[SVProgressHUD setBackgroundColor:]
+-[SVProgressHUD setBackgroundLayerColor:]
+-[SVProgressHUD setShouldTintImages:]
+-[SVProgressHUD setInfoImage:]
+-[SVProgressHUD setSuccessImage:]
+-[SVProgressHUD setErrorImage:]
+-[SVProgressHUD setViewForExtension:]
+-[SVProgressHUD setOffsetFromCenter:]
+-[SVProgressHUD setMinimumDismissTimeInterval:]
+-[SVProgressHUD setFadeInAnimationDuration:]
+-[SVProgressHUD setFadeOutAnimationDuration:]
+-[SVProgressHUD setMaxSupportedWindowLevel:]
+-[SVProgressHUD defaultStyle]
+-[SVProgressHUD defaultMaskType]
+-[SVProgressHUD defaultAnimationType]
+-[SVProgressHUD containerView]
+-[SVProgressHUD minimumSize]
+-[SVProgressHUD ringThickness]
+-[SVProgressHUD ringRadius]
+-[SVProgressHUD ringNoTextRadius]
+-[SVProgressHUD cornerRadius]
+-[SVProgressHUD font]
+-[SVProgressHUD backgroundColor]
+-[SVProgressHUD foregroundColor]
+-[SVProgressHUD backgroundLayerColor]
+-[SVProgressHUD imageViewSize]
+-[SVProgressHUD setImageViewSize:]
+-[SVProgressHUD shouldTintImages]
+-[SVProgressHUD infoImage]
+-[SVProgressHUD successImage]
+-[SVProgressHUD errorImage]
+-[SVProgressHUD viewForExtension]
+-[SVProgressHUD graceTimeInterval]
+-[SVProgressHUD setGraceTimeInterval:]
+-[SVProgressHUD minimumDismissTimeInterval]
+-[SVProgressHUD maximumDismissTimeInterval]
+-[SVProgressHUD setMaximumDismissTimeInterval:]
+-[SVProgressHUD offsetFromCenter]
+-[SVProgressHUD fadeInAnimationDuration]
+-[SVProgressHUD fadeOutAnimationDuration]
+-[SVProgressHUD maxSupportedWindowLevel]
+-[SVProgressHUD hapticsEnabled]
+-[SVProgressHUD setHapticsEnabled:]
+-[SVProgressHUD graceTimer]
+-[SVProgressHUD fadeOutTimer]
+-[SVProgressHUD setControlView:]
+-[SVProgressHUD setBackgroundView:]
+-[SVProgressHUD backgroundRadialGradientLayer]
+-[SVProgressHUD setBackgroundRadialGradientLayer:]
+-[SVProgressHUD setHudView:]
+-[SVProgressHUD setStatusLabel:]
+-[SVProgressHUD setImageView:]
+-[SVProgressHUD setIndefiniteAnimatedView:]
+-[SVProgressHUD setRingView:]
+-[SVProgressHUD setBackgroundRingView:]
+-[SVProgressHUD progress]
+-[SVProgressHUD setProgress:]
+-[SVProgressHUD activityCount]
+-[SVProgressHUD setActivityCount:]
+-[SVProgressHUD setHapticGenerator:]
+-[SVProgressHUD .cxx_destruct]
+___clang_at_available_requires_core_foundation_framework
+_SVProgressHUDDidReceiveTouchEventNotification
+_SVProgressHUDDidTouchDownInsideNotification
+_SVProgressHUDWillDisappearNotification
+_SVProgressHUDDidDisappearNotification
+_SVProgressHUDWillAppearNotification
+_SVProgressHUDDidAppearNotification
+_SVProgressHUDStatusUserInfoKey
+_sharedView.once
+_sharedView.sharedView
+___block_descriptor_tmp
+___block_descriptor_tmp.111
+___block_descriptor_tmp.119
+___block_descriptor_tmp.125
+___block_descriptor_tmp.131
+___block_descriptor_tmp.137
+_OBJC_IVAR_$_SVProgressHUD._isInitializing
+_OBJC_IVAR_$_SVProgressHUD._backgroundColor
+_OBJC_IVAR_$_SVProgressHUD._foregroundColor
+_OBJC_IVAR_$_SVProgressHUD._backgroundLayerColor
+_OBJC_IVAR_$_SVProgressHUD._defaultMaskType
+_OBJC_IVAR_$_SVProgressHUD._defaultStyle
+_OBJC_IVAR_$_SVProgressHUD._defaultAnimationType
+_OBJC_IVAR_$_SVProgressHUD._minimumSize
+_OBJC_IVAR_$_SVProgressHUD._font
+_OBJC_IVAR_$_SVProgressHUD._imageViewSize
+_OBJC_IVAR_$_SVProgressHUD._shouldTintImages
+_OBJC_IVAR_$_SVProgressHUD._infoImage
+_OBJC_IVAR_$_SVProgressHUD._successImage
+_OBJC_IVAR_$_SVProgressHUD._errorImage
+_OBJC_IVAR_$_SVProgressHUD._ringThickness
+_OBJC_IVAR_$_SVProgressHUD._ringRadius
+_OBJC_IVAR_$_SVProgressHUD._ringNoTextRadius
+_OBJC_IVAR_$_SVProgressHUD._cornerRadius
+_OBJC_IVAR_$_SVProgressHUD._graceTimeInterval
+_OBJC_IVAR_$_SVProgressHUD._minimumDismissTimeInterval
+_OBJC_IVAR_$_SVProgressHUD._maximumDismissTimeInterval
+_OBJC_IVAR_$_SVProgressHUD._fadeInAnimationDuration
+_OBJC_IVAR_$_SVProgressHUD._fadeOutAnimationDuration
+_OBJC_IVAR_$_SVProgressHUD._maxSupportedWindowLevel
+_OBJC_IVAR_$_SVProgressHUD._hapticsEnabled
+_OBJC_IVAR_$_SVProgressHUD._graceTimer
+_OBJC_IVAR_$_SVProgressHUD._fadeOutTimer
+___block_descriptor_tmp.321
+___block_descriptor_tmp.387
+___block_descriptor_tmp.402
+___block_descriptor_tmp.421
+___block_descriptor_tmp.427
+___block_descriptor_tmp.433
+___block_descriptor_tmp.438
+___block_descriptor_tmp.443
+___block_descriptor_tmp.457
+___block_descriptor_tmp.464
+___block_descriptor_tmp.468
+___block_descriptor_tmp.471
+___block_descriptor_tmp.474
+_OBJC_IVAR_$_SVProgressHUD._indefiniteAnimatedView
+_OBJC_IVAR_$_SVProgressHUD._ringView
+_OBJC_IVAR_$_SVProgressHUD._backgroundRingView
+_OBJC_IVAR_$_SVProgressHUD._controlView
+_OBJC_IVAR_$_SVProgressHUD._backgroundView
+_OBJC_IVAR_$_SVProgressHUD._backgroundRadialGradientLayer
+_OBJC_CLASS_$_SVRadialGradientLayer
+_OBJC_IVAR_$_SVProgressHUD._hudView
+_OBJC_IVAR_$_SVProgressHUD._statusLabel
+_OBJC_IVAR_$_SVProgressHUD._imageView
+_OBJC_IVAR_$_SVProgressHUD._hapticGenerator
+_OBJC_IVAR_$_SVProgressHUD._containerView
+_OBJC_IVAR_$_SVProgressHUD._viewForExtension
+_OBJC_IVAR_$_SVProgressHUD._offsetFromCenter
+_OBJC_IVAR_$_SVProgressHUD._progress
+_OBJC_IVAR_$_SVProgressHUD._activityCount
+_OBJC_METACLASS_$_SVProgressHUD
+/Users/xiaofeiniao/Desktop/TestAddHoc/Pods/SVProgressHUD/SVProgressHUD/SVProgressHUD.m
+/Users/xiaofeiniao/Desktop/TestAddHoc/Pods/SVProgressHUD/SVProgressHUD/SVProgressHUD.h
+__CGSizeEqualToSize
+/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS12.1.sdk/System/Library/Frameworks/CoreGraphics.framework/Headers/CGGeometry.h
+__destroy_helper_block_
+__copy_helper_block_
+__45-[SVProgressHUD dismissWithDelay:completion:]_block_invoke.465
+__45-[SVProgressHUD dismissWithDelay:completion:]_block_invoke_2.461
+__45-[SVProgressHUD dismissWithDelay:completion:]_block_invoke.458
+__45-[SVProgressHUD dismissWithDelay:completion:]_block_invoke.444
+__45-[SVProgressHUD dismissWithDelay:completion:]_block_invoke_2
+__45-[SVProgressHUD dismissWithDelay:completion:]_block_invoke
+__24-[SVProgressHUD fadeIn:]_block_invoke.434
+__24-[SVProgressHUD fadeIn:]_block_invoke.430
+__24-[SVProgressHUD fadeIn:]_block_invoke.422
+__24-[SVProgressHUD fadeIn:]_block_invoke
+__Block_byref_object_dispose_
+__Block_byref_object_copy_
+__43-[SVProgressHUD showImage:status:duration:]_block_invoke
+__37-[SVProgressHUD showProgress:status:]_block_invoke
+__29-[SVProgressHUD positionHUD:]_block_invoke
+UIInterfaceOrientationIsPortrait
+/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS12.1.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIApplication.h
+__46+[SVProgressHUD showErrorWithStatus:maskType:]_block_invoke
+__37+[SVProgressHUD showErrorWithStatus:]_block_invoke
+__48+[SVProgressHUD showSuccessWithStatus:maskType:]_block_invoke
+__39+[SVProgressHUD showSuccessWithStatus:]_block_invoke
+__36+[SVProgressHUD showInfoWithStatus:]_block_invoke
+__27+[SVProgressHUD sharedView]_block_invoke
+/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS12.1.sdk/usr/include/dispatch/once.h
+-[SVRadialGradientLayer drawInContext:]
+-[SVRadialGradientLayer gradientCenter]
+-[SVRadialGradientLayer setGradientCenter:]
+_OBJC_IVAR_$_SVRadialGradientLayer._gradientCenter
+_OBJC_METACLASS_$_SVRadialGradientLayer
+/Users/xiaofeiniao/Desktop/TestAddHoc/Pods/SVProgressHUD/SVProgressHUD/SVRadialGradientLayer.m
+/Users/xiaofeiniao/Desktop/TestAddHoc/Pods/SVProgressHUD/SVProgressHUD/SVRadialGradientLayer.h
+_OBJC_METACLASS_$_PodsDummy_Pods_TestAddHoc
+_OBJC_CLASS_$_PodsDummy_Pods_TestAddHoc
+/Users/xiaofeiniao/Desktop/TestAddHoc/Pods/Target Support Files/Pods-TestAddHoc/Pods-TestAddHoc-dummy.m
